@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include "app.h "
-#include "server.h"
+#include "../Server/server.h"
 
 
 void appStart()
