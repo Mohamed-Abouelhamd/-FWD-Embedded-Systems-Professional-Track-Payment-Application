@@ -5,7 +5,7 @@
 #include <string.h>
 #include <time.h>
 #include <windows.h>
-#include "card.h"
+#include "../Card/card.h"
 
 typedef struct ST_terminalData_t
 {
