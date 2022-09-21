@@ -3,7 +3,7 @@
 #define SERVER_Header
 #define MAX 255
 #include <stdio.h>
-#include "terminal.h"
+#include "../Terminal/terminal.h"
 
 
 typedef enum EN_transState_t
